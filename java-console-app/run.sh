@@ -1,1 +1,1 @@
-javac Main.java && java Main
+gradle build && gradle run --args="$*"
